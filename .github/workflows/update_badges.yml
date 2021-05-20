@@ -10,5 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
-          ACCLAIM_USER: janusz-nowak
+        uses: pemtajo/badge-readme@master          
