@@ -12,3 +12,5 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
           CREDLY_USER: janusz-nowak
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
