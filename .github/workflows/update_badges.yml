@@ -10,8 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
-          #CREDLY_USER: ${{ secrets.CREADLY_USERNAME }}
+        uses: pemtajo/badge-readme@main          
           CREDLY_USER: janusz-nowak
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
