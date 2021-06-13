@@ -10,7 +10,7 @@
 <img src="./img/Microsoft Certified_ Azure Solutions Architect Expert.png?raw=true" width="140"/>
 <img src="./img/Microsoft Certified_ Azure Security Engineer Associate.png?raw=true" width="140"/>
 </div>
-
+<!--
 <div>
 <img src="./img/Designing and Implementing Microsoft DevOps Solutions .png?raw=true" width="140"/>
 
@@ -63,7 +63,7 @@
 <img src="./img/Friends of BI Wizard - Power BI.png?raw=true" width="140"/>
 <img src="./img/Friends of BI Builder - Power BI.png?raw=true" width="140"/>
 </div>
-
+-->
 
 <!--
 **janusznowak/janusznowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
