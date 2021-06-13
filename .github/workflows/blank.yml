@@ -1,0 +1,17 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: janusznowak/badge-readme@main
+          #REPOSITORY: <username>/<username> # optional, By default, it will automatically use the repository who's executing the workflow.
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: janusz-nowak
+          CREDLY_SORT: RECENT 
