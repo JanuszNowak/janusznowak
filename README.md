@@ -3,7 +3,67 @@
 [![Website](https://img.shields.io/website?label=blog.janono.pl&style=for-the-badge&url=https%3A%2F%2Fblog.janono.pl)](https://blog.janono.pl)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jnowwwak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjanusznowak&screen_name=jnowwwak)
 
-![Alt text](./img/Designing and Implementing Microsoft DevOps Solutions.png?raw=true "Title")
+
+
+<div>
+<img src="./img/Microsoft Certified_ DevOps Engineer Expert.png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Azure Solutions Architect Expert.png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Azure Security Engineer Associate.png?raw=true" width="140"/>
+</div>
+
+<div>
+<img src="./img/Designing and Implementing Microsoft DevOps Solutions .png?raw=true" width="140"/>
+
+<img src="./img/Programming in HTML5 with JavaScript and CSS3 .png?raw=true" width="140"/><img src="./img/Microsoft Specialist_ Programming in HTML5 with JavaScript and CSS3.png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified Professional_ Microsoft Certified Professional.png?raw=true" width="140"/>
+<img src="./img/Developing ASP.NET MVC Web Applications .png?raw=true" width="140"/>
+<img src="./img/Developing Microsoft Azure and Web Services .png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified Solutions Developer_ Web Applications (Inactive).png?raw=true" width="140"/>
+<img src="./img/Administering Visual Studio Team Foundation Server .png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified Solutions Associate_ Web Applications (Charter)*.png?raw=true" width="140"/>
+<img src="./img/Information security in the cloud according to ISO / IEC 27017_ 2015 with elements of protection of personal data processed in the cloud (ISO / OEC 27018_ 2014).png?raw=true" width="140"/>
+<img src="./img/DevOps Foundation® Certification.png?raw=true" width="140"/>
+<img src="./img/Azure Hero - Maker.png?raw=true" width="140"/>
+<img src="./img/Azure Hero - Content Hero.png?raw=true" width="140"/>
+<img src="./img/Microsoft Azure Fundamentals .png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Azure Fundamentals.png?raw=true" width="140"/>
+
+<img src="./img/Microsoft Azure Administrator .png?raw=true" width="140"/>
+
+<img src="./img/Microsoft Certified_ Azure Administrator Associate.png?raw=true" width="140"/>
+  
+<img src="./img/Microsoft Azure Data Fundamentals .png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Azure Data Fundamentals.png?raw=true" width="140"/>
+<img src="./img/Microsoft Azure Architect Design .png?raw=true" width="140"/>
+<img src="./img/Microsoft Azure Architect Technologies .png?raw=true" width="140"/>
+
+<img src="./img/Trainer_ MCT Enrollment.png?raw=true" width="140"/>
+<img src="./img/Microsoft Azure Security Technologies .png?raw=true" width="140"/>
+
+<img src="./img/Microsoft Azure AI Fundamentals .png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Azure AI Fundamentals.png?raw=true" width="140"/>
+<img src="./img/DevOps Leader (DOL)® Certification.png?raw=true" width="140"/>
+<img src="./img/Administering Relational Databases on Microsoft Azure .png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Azure Database Administrator Associate.png?raw=true" width="140"/>
+<img src="./img/Designing an Azure Data Solution .png?raw=true" width="140"/>
+<img src="./img/Implementing an Azure Data Solution .png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Azure Data Engineer Associate.png?raw=true" width="140"/>
+<img src="./img/Site Reliability Engineering (SRE) Foundation Certification.png?raw=true" width="140"/>
+<img src="./img/Designing and Implementing an Azure AI Solution .png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Azure AI Engineer Associate.png?raw=true" width="140"/>
+<img src="./img/Microsoft Azure IoT Developer .png?raw=true" width="140"/>
+<img src="./img/Specialty_ Microsoft Certified_ Azure IoT Developer Specialty.png?raw=true" width="140"/>
+<img src="./img/OpenHack_ DevOps.png?raw=true" width="140"/>
+<img src="./img/DevSecOps Foundation (DSOF) Certification.png?raw=true" width="140"/>
+<img src="./img/Microsoft Certified_ Data Analyst Associate.png?raw=true" width="140"/>
+</div>
+
+<div>
+<img src="./img/Friends of BI Master - Power BI.png?raw=true" width="140"/>
+<img src="./img/Friends of BI Wizard - Power BI.png?raw=true" width="140"/>
+<img src="./img/Friends of BI Builder - Power BI.png?raw=true" width="140"/>
+</div>
+
 
 <!--
 **janusznowak/janusznowak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,11 +90,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="janono | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-<img width="110px" src="https://images.credly.com/size/340x340/images/b8a378e7-7986-43b2-b87d-f9232eec439f/PBI_Master_Badge_sq.png"/><img width="110px" src="https://images.credly.com/size/340x340/images/ddefbfc2-7e89-4b5c-a685-aa48903dbee9/PBI_Wizard_Badge_sq.png"/>
-<img width="110px" src="https://images.credly.com/size/340x340/images/df0f41b4-8e93-4fb0-a7a3-ddd29f2eb387/PBI_Builder_Badge_sq.png"/>
-
-[](img/Microsoft Certified_ DevOps Engineer Expert.png)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
