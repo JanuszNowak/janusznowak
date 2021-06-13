@@ -33,5 +33,7 @@ Here are some ideas to get you started:
 <img width="110px" src="https://images.credly.com/size/340x340/images/b8a378e7-7986-43b2-b87d-f9232eec439f/PBI_Master_Badge_sq.png"/><img width="110px" src="https://images.credly.com/size/340x340/images/ddefbfc2-7e89-4b5c-a685-aa48903dbee9/PBI_Wizard_Badge_sq.png"/>
 <img width="110px" src="https://images.credly.com/size/340x340/images/df0f41b4-8e93-4fb0-a7a3-ddd29f2eb387/PBI_Builder_Badge_sq.png"/>
 
+![](/img/Microsoft Certified_ DevOps Engineer Expert.png)
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
