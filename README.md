@@ -149,11 +149,28 @@ Friends of BI
 
 
 <div>
+
 DevOps Institute
 <a href="https://devops.credly.com/member-badges/23131093" title="DevOps Foundation® Certification">
     <img src="https://credlyapp.s3.amazonaws.com/badges/8bbb7b5a060a84447018cb1ee062f85a_17.png" width="140" alt="DevOps Foundation® Certification"/>
 </a>
+<a href="https://devops.credly.com/member-badges/23131093" title="DevOps Foundation® Certification">
+    <img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/DevOpsFoundationBadge.png" width="140" alt="DevOps Foundation® Certification"/>
+</a>
 
+<a href="https://www.devopsinstitute.com/certifications/devops-leader/" title="DevOps Leader®">
+    <img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/DevOpsLeaderBadge-2.png" width="140" alt="DevOps Leader®"/>
+</a>
+<a href="https://www.devopsinstitute.com/certifications/sre-foundation/" title="Site Reliability Engineering (SRE) Foundation℠">
+    <img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/SREFoundation-2.png" width="140" alt="Site Reliability Engineering (SRE) Foundation℠"/>
+</a>
+
+<a href="https://www.devopsinstitute.com/certifications/devsecops-foundation/" title="DevSecOps Foundation℠">
+    <img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/DevSecOpsFoundation-2.png" width="140" alt="DevSecOps Foundation℠"/>
+</a>
+
+    
+    
 </div>
 
 
