@@ -155,7 +155,6 @@ DevOps Institute
 <a href="https://devops.credly.com/member-badges/23131093" title="DevOps Foundation® Certification">
     <img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/DevOpsFoundationBadge.png" width="140" alt="DevOps Foundation® Certification"/>
 </a>
-
 <a href="https://www.devopsinstitute.com/certifications/devops-leader/" title="DevOps Leader®">
     <img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/DevOpsLeaderBadge-2.png" width="140" alt="DevOps Leader®"/>
 </a>
@@ -165,7 +164,8 @@ DevOps Institute
 
 <a href="https://www.devopsinstitute.com/certifications/devsecops-foundation/" title="DevSecOps Foundation℠">
     <img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/DevSecOpsFoundation-2.png" width="140" alt="DevSecOps Foundation℠"/>
-</a>
+</a>    
+</div>
 
 <a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Maker">
     <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/maker.jpg" width="240" alt="Azure Hero - Maker"/>
@@ -173,11 +173,6 @@ DevOps Institute
 <a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Content Hero">
     <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/content_hero.jpg" width="240" alt="Azure Hero - Maker"/>
 </a>
-
-
-    
-</div>
-
 
 
 
