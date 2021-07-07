@@ -6,7 +6,7 @@
 
 
 <div>
-<a href="https://www.credly.com/earner/earned/badge/ca33f668-2a52-4572-8151-d1179d10ebd7">
+<a href="https://www.credly.com/earner/earned/badge/ca33f668-2a52-4572-8151-d1179d10ebd7" title="Microsoft Certified: DevOps Engineer Expert">
   <img src="./img/Microsoft Certified_ DevOps Engineer Expert.png?raw=true" width="140" alt="Microsoft Certified: DevOps Engineer Expert"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/e2ac5d12-235d-45f9-80df-2a42740b3f1b">
