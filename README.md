@@ -65,6 +65,10 @@ amentals"/>
 <a href="https://www.credly.com/badges/2e497688-fb55-40f7-b77e-feab200733cc" title="MCSA: Web Applications - Certified 2016">
     <img src="https://images.credly.com/size/600x600/images/421ca115-c03d-403d-893c-da7652bb8619/MCSA_Web_Applications-01.png" width="140" alt="MCSA: Web Applications - Certified 2016
 "/>
+<a href="https://www.credly.com/badges/8675a1d5-c560-42fd-8f16-0e83d4602d57" title="Microsoft Certified Trainer 2021-2022">
+    <img src="https://images.credly.com/size/600x600/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="140" alt="Microsoft Certified Trai
+ner 2021-2022"/>
+</a>
 </a>
 
 
@@ -75,14 +79,8 @@ amentals"/>
 
 
 
-<a href="https://www.credly.com/badges/8675a1d5-c560-42fd-8f16-0e83d4602d57" title="Microsoft Certified Trainer 2021-2022">
-    <img src="https://images.credly.com/size/600x600/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="140" alt="Microsoft Certified Trai
-ner 2021-2022"/>
-</a>
 
-<a href="https://www.credly.com/badges/bf60eeb8-cb20-4e53-a834-4c389fdef54e" title="OpenHack: DevOps">
-    <img src="https://images.credly.com/size/600x600/images/0384f554-6401-42d2-b494-02a6d2fd3013/DevOps.png" width="140" alt="OpenHack: DevOps"/>
-</a>
+
 
 <div>
 Friends of BI P&G
@@ -129,7 +127,11 @@ Awards
 <a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Content Hero">
     <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/content_hero.jpg" width="240" alt="Azure Hero - Maker"/>
 </a>
+<a href="https://www.credly.com/badges/bf60eeb8-cb20-4e53-a834-4c389fdef54e" title="OpenHack: DevOps">
+    <img src="https://images.credly.com/size/600x600/images/0384f554-6401-42d2-b494-02a6d2fd3013/DevOps.png" width="140" alt="OpenHack: DevOps"/>
+</a>
 </div>
+
 
 
 <div>
