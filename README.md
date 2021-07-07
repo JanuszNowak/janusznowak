@@ -9,8 +9,12 @@
 <a href="https://www.credly.com/earner/earned/badge/ca33f668-2a52-4572-8151-d1179d10ebd7">
   <img src="./img/Microsoft Certified_ DevOps Engineer Expert.png?raw=true" width="140" alt="Microsoft Certified: DevOps Engineer Expert"/>
 </a>
-<img src="./img/Microsoft Certified_ Azure Solutions Architect Expert.png?raw=true" width="140"/>
-<img src="./img/Microsoft Certified_ Azure Security Engineer Associate.png?raw=true" width="140"/>
+<a href="https://www.credly.com/earner/earned/badge/e2ac5d12-235d-45f9-80df-2a42740b3f1b">
+  <img src="./img/Microsoft Certified_ Azure Solutions Architect Expert.png?raw=true" width="140" alt="Microsoft Certified: Azure Solutions Architect Expert"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/205c5f21-d69a-4b8e-b16e-01fc4cef3e6d">
+  <img src="./img/Microsoft Certified_ Azure Security Engineer Associate.png?raw=true" width="140"alt="Microsoft Certified: Azure Security Engineer Associate"/>
+</a>
 </div>
 <!--
 <div>
