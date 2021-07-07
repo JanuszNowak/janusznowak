@@ -62,7 +62,10 @@ Fundamentals"/>
     <img src="https://images.credly.com/size/600x600/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="140" alt="Microsoft Certified: Azure AI Fund
 amentals"/>
 </a>
-
+<a href="https://www.credly.com/badges/2e497688-fb55-40f7-b77e-feab200733cc" title="MCSA: Web Applications - Certified 2016">
+    <img src="https://images.credly.com/size/600x600/images/421ca115-c03d-403d-893c-da7652bb8619/MCSA_Web_Applications-01.png" width="140" alt="MCSA: Web Applications - Certified 2016
+"/>
+</a>
 
 
 <div>
@@ -118,15 +121,6 @@ n Server"/>
 
 
 
-
-
-
-
-
-<a href="https://www.credly.com/badges/2e497688-fb55-40f7-b77e-feab200733cc" title="MCSA: Web Applications - Certified 2016">
-    <img src="https://images.credly.com/size/600x600/images/421ca115-c03d-403d-893c-da7652bb8619/MCSA_Web_Applications-01.png" width="140" alt="MCSA: Web Applications - Certified 2016
-"/>
-</a>
 <a href="https://www.credly.com/badges/8675a1d5-c560-42fd-8f16-0e83d4602d57" title="Microsoft Certified Trainer 2021-2022">
     <img src="https://images.credly.com/size/600x600/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="140" alt="Microsoft Certified Trai
 ner 2021-2022"/>
