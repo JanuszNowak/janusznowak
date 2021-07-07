@@ -5,7 +5,8 @@
 
 <div>
 
-
+Azure, Cloud, Dev, DevOps
+<br>
 
 <a href="https://www.credly.com/badges/ca33f668-2a52-4572-8151-d1179d10ebd7" title="Microsoft Certified: DevOps Engineer Expert">
     <img src="https://images.credly.com/size/600x600/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="140" alt="Microsoft Certified: DevOps 
@@ -65,7 +66,8 @@ amentals"/>
 
 
 <div>
-Exams
+Exams Microsoft
+<br>
 <a href="https://www.credly.com/badges/2d2b4b07-4b3e-441b-b7b2-10053e2f4fc7" title="AZ-400 Designing and Implementing Microsoft DevOps Solutions">
     <img src="https://images.credly.com/size/600x600/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png" width="140" alt="AZ-400 Designing and Implementing Microsoft D
 evOps Solutions"/>
@@ -151,6 +153,7 @@ Friends of BI
 <div>
 
 DevOps Institute
+    <br>
 <a href="https://devops.credly.com/member-badges/23131093" title="DevOps Foundation® Certification">
     <img src="https://credlyapp.s3.amazonaws.com/badges/8bbb7b5a060a84447018cb1ee062f85a_17.png" width="140" alt="DevOps Foundation® Certification"/>
 </a>
