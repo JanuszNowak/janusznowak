@@ -7,8 +7,6 @@
 
 
 
-
-
 <a href="https://www.credly.com/badges/ca33f668-2a52-4572-8151-d1179d10ebd7" title="Microsoft Certified: DevOps Engineer Expert">
     <img src="https://images.credly.com/size/600x600/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="140" alt="Microsoft Certified: DevOps 
 Engineer Expert"/>
@@ -66,7 +64,8 @@ amentals"/>
 
 
 
-
+<div>
+Exams
 <a href="https://www.credly.com/badges/2d2b4b07-4b3e-441b-b7b2-10053e2f4fc7" title="AZ-400 Designing and Implementing Microsoft DevOps Solutions">
     <img src="https://images.credly.com/size/600x600/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png" width="140" alt="AZ-400 Designing and Implementing Microsoft D
 evOps Solutions"/>
@@ -109,12 +108,11 @@ ing Microsoft Azure and Web Services"/>
 n Server"/>
 </a>
 
+</div>
+
 <a href="https://www.credly.com/badges/47996eae-5885-4502-98f5-41a6028e153a" title="Certified SAFe® 5 Agilist">
     <img src="https://images.credly.com/size/600x600/images/969ca68c-6793-4ebc-b35a-1d2663ad3c26/cert_mark_SA_badge_large_300px.png" width="140" alt="Certified SAFe® 5 Agilist"/>
 </a>
-
-
-
 
 
 
@@ -136,7 +134,8 @@ ner 2021-2022"/>
     <img src="https://images.credly.com/size/600x600/images/0384f554-6401-42d2-b494-02a6d2fd3013/DevOps.png" width="140" alt="OpenHack: DevOps"/>
 </a>
 
-
+<div>
+Friends of BI 
 <a href="https://www.credly.com/badges/55c4245e-fd37-4baf-9cff-333ae609ea72" title="Friends of BI Master - Power BI">
     <img src="https://images.credly.com/size/600x600/images/b8a378e7-7986-43b2-b87d-f9232eec439f/PBI_Master_Badge_sq.png" width="140" alt="Friends of BI Master - Power BI"/>
 </a>
@@ -146,11 +145,25 @@ ner 2021-2022"/>
 <a href="https://www.credly.com/badges/f74f58fc-8069-422f-9a65-86c8ae0a425c" title="Friends of BI Builder - Power BI">
     <img src="https://images.credly.com/size/600x600/images/df0f41b4-8e93-4fb0-a7a3-ddd29f2eb387/PBI_Builder_Badge_sq.png" width="140" alt="Friends of BI Builder - Power BI"/>
 </a>
+</div>
 
 
+<div>
+DevOps Institute
 <a href="https://devops.credly.com/member-badges/23131093" title="DevOps Foundation® Certification">
     <img src="https://credlyapp.s3.amazonaws.com/badges/8bbb7b5a060a84447018cb1ee062f85a_17.png" width="140" alt="DevOps Foundation® Certification"/>
 </a>
+
+</div>
+
+
+
+
+
+
+
+
+
 
 
 </div>
