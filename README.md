@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jnowwwak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjanusznowak&screen_name=jnowwwak)
 
 <div>
---Microsfot
+
 
 <a href="https://www.credly.com/badges/ca33f668-2a52-4572-8151-d1179d10ebd7" title="Microsoft Certified: DevOps Engineer Expert">
     <img src="https://images.credly.com/size/140x140/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="140" alt="Microsoft Certified: DevOps 
@@ -19,27 +19,25 @@ ure Solutions Architect Expert"/>
 ure Security Engineer Associate"/>
 </a>
 
---Exams
+
+<a href="https://www.credly.com/badges/e7e9f2ea-1f7c-4b8c-988a-80c3689ffd62" title="Microsoft Certified: Azure Administrator Associate">
+    <img src="https://images.credly.com/size/140x140/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png" width="140" alt="Microsoft Certified: Azure Adminis
+trator Associate"/>
+</a>
+
+<a href="https://www.credly.com/badges/ca891c5b-73ce-49ff-8bf2-eef94445a97f" title="Microsoft Certified: Azure Data Engineer Associate">
+    <img src="https://images.credly.com/size/140x140/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" width="140" alt="Microsoft Certified: Azure
+ Data Engineer Associate"/>
+</a>
+
+
+
+
 
 
 <a href="https://www.credly.com/badges/e546843f-433a-4441-858e-beff605eefb5" title="Microsoft Certified: Azure Fundamentals">
     <img src="https://images.credly.com/size/140x140/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="140" alt="Microsoft Certified: Azure Fundamenta
 ls"/>
-</a>
-<a href="https://www.credly.com/badges/47996eae-5885-4502-98f5-41a6028e153a" title="Certified SAFe® 5 Agilist">
-    <img src="https://images.credly.com/size/140x140/images/969ca68c-6793-4ebc-b35a-1d2663ad3c26/cert_mark_SA_badge_large_300px.png" width="140" alt="Certified SAFe® 5 Agilist"/>
-</a>
-<a href="https://www.credly.com/badges/c8aa0b27-2ed1-4852-95ea-adaa17099fd6" title="Exam 480: Programming in HTML5 with JavaScript and CSS3">
-    <img src="https://images.credly.com/size/140x140/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" width="140" alt="Exam 480: Progr
-amming in HTML5 with JavaScript and CSS3"/>
-</a>
-<a href="https://www.credly.com/badges/e7e9f2ea-1f7c-4b8c-988a-80c3689ffd62" title="Microsoft Certified: Azure Administrator Associate">
-    <img src="https://images.credly.com/size/140x140/images/35d18649-95c6-4c78-b07a-cfc1362318f3/azure-administrator-associate.png" width="140" alt="Microsoft Certified: Azure Adminis
-trator Associate"/>
-</a>
-<a href="https://www.credly.com/badges/96c7dae0-acc0-479c-ad4e-b353dcfc8ef6" title="Exam 486: Developing ASP.NET MVC Web Applications">
-    <img src="https://images.credly.com/size/140x140/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png" width="140" alt="Exam 486: Developing 
-ASP.NET MVC Web Applications"/>
 </a>
 <a href="https://www.credly.com/badges/b353b013-4b51-4e4f-b151-e1a8259ee73e" title="Microsoft Certified: Azure Data Fundamentals">
     <img src="https://images.credly.com/size/140x140/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="140" alt="Microsoft Certified: Azure Data 
@@ -50,35 +48,61 @@ Fundamentals"/>
 amentals"/>
 </a>
 
-<a href="https://www.credly.com/badges/651f707f-826d-4006-95e6-c36ad6e30f9a" title="AZ-303 Microsoft Azure Architect Technologies">
-    <img src="https://images.credly.com/size/140x140/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" width="140" alt="AZ-303 Microsoft Azure Architect Tech
-nologies"/>
-</a>
+
+
+
 <a href="https://www.credly.com/badges/2d2b4b07-4b3e-441b-b7b2-10053e2f4fc7" title="AZ-400 Designing and Implementing Microsoft DevOps Solutions">
     <img src="https://images.credly.com/size/140x140/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png" width="140" alt="AZ-400 Designing and Implementing Microsoft D
 evOps Solutions"/>
 </a>
-<a href="https://www.credly.com/badges/ca891c5b-73ce-49ff-8bf2-eef94445a97f" title="Microsoft Certified: Azure Data Engineer Associate">
-    <img src="https://images.credly.com/size/140x140/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" width="140" alt="Microsoft Certified: Azure
- Data Engineer Associate"/>
-</a>
-<a href="https://www.credly.com/badges/d06397c1-e850-414c-a980-92973b226950" title="Exam 487: Developing Microsoft Azure and Web Services">
-    <img src="https://images.credly.com/size/140x140/images/ff9e3554-46b8-474d-8a8c-9285284e6c83/Developing_Microsoft_Azure_and_Web_Services-01.png" width="140" alt="Exam 487: Develop
-ing Microsoft Azure and Web Services"/>
-</a>
-<a href="https://www.credly.com/badges/26117260-b59f-4c6b-9310-c14f357c3e79" title="DP-200 Implementing an Azure Data Solution">
-    <img src="https://images.credly.com/size/140x140/images/af626bbe-ed13-472f-9e72-d4808474acb5/exam-dp200-600x600.png" width="140" alt="DP-200 Implementing an Azure Data Solution"/>
 
+<a href="https://www.credly.com/badges/651f707f-826d-4006-95e6-c36ad6e30f9a" title="AZ-303 Microsoft Azure Architect Technologies">
+    <img src="https://images.credly.com/size/140x140/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" width="140" alt="AZ-303 Microsoft Azure Architect Tech
+nologies"/>
 </a>
+
 <a href="https://www.credly.com/badges/f7ce3231-9b3c-4287-8db4-76ab42a05a28" title="AZ-304 Microsoft Azure Architect Design">
     <img src="https://images.credly.com/size/140x140/images/bfdff01e-a9dd-41fc-9301-8a90585c19bb/EXAM-Expert-AZ-304-600x600.png" width="140" alt="AZ-304 Microsoft Azure Architect Desi
 gn"/>
+</a>
+
+<a href="https://www.credly.com/badges/26117260-b59f-4c6b-9310-c14f357c3e79" title="DP-200 Implementing an Azure Data Solution">
+    <img src="https://images.credly.com/size/140x140/images/af626bbe-ed13-472f-9e72-d4808474acb5/exam-dp200-600x600.png" width="140" alt="DP-200 Implementing an Azure Data Solution"/>
+
 </a>
 
 
 <a href="https://www.credly.com/badges/2dbc524a-3cdc-4802-ae15-51d869aac750" title="DP-201 Designing an Azure Data Solution">
     <img src="https://images.credly.com/size/140x140/images/c4671de2-68f7-4219-952d-2e955e25f453/exam-dp201-600x600.png" width="140" alt="DP-201 Designing an Azure Data Solution"/>
 </a>
+
+<a href="https://www.credly.com/badges/c8aa0b27-2ed1-4852-95ea-adaa17099fd6" title="Exam 480: Programming in HTML5 with JavaScript and CSS3">
+    <img src="https://images.credly.com/size/140x140/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" width="140" alt="Exam 480: Progr
+amming in HTML5 with JavaScript and CSS3"/>
+</a>
+<a href="https://www.credly.com/badges/96c7dae0-acc0-479c-ad4e-b353dcfc8ef6" title="Exam 486: Developing ASP.NET MVC Web Applications">
+    <img src="https://images.credly.com/size/140x140/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png" width="140" alt="Exam 486: Developing 
+ASP.NET MVC Web Applications"/>
+</a>
+<a href="https://www.credly.com/badges/d06397c1-e850-414c-a980-92973b226950" title="Exam 487: Developing Microsoft Azure and Web Services">
+    <img src="https://images.credly.com/size/140x140/images/ff9e3554-46b8-474d-8a8c-9285284e6c83/Developing_Microsoft_Azure_and_Web_Services-01.png" width="140" alt="Exam 487: Develop
+ing Microsoft Azure and Web Services"/>
+</a>
+
+
+<a href="https://www.credly.com/badges/47996eae-5885-4502-98f5-41a6028e153a" title="Certified SAFe® 5 Agilist">
+    <img src="https://images.credly.com/size/140x140/images/969ca68c-6793-4ebc-b35a-1d2663ad3c26/cert_mark_SA_badge_large_300px.png" width="140" alt="Certified SAFe® 5 Agilist"/>
+</a>
+
+
+
+
+
+
+
+
+
+
 <a href="https://www.credly.com/badges/dcd5f342-d269-4f96-93f8-296c3b983662" title="Microsoft Certified: Data Analyst Associate">
     <img src="https://images.credly.com/size/140x140/images/5cc4fa32-c08f-43c5-ae31-3184e172ad34/CERT-Associate-Data-Analyst-600x600.png" width="140" alt="Microsoft Certified: Data An
 alyst Associate"/>
@@ -119,7 +143,6 @@ n Server"/>
 <a href="https://www.credly.com/badges/55c4245e-fd37-4baf-9cff-333ae609ea72" title="Friends of BI Master - Power BI">
     <img src="https://images.credly.com/size/140x140/images/b8a378e7-7986-43b2-b87d-f9232eec439f/PBI_Master_Badge_sq.png" width="140" alt="Friends of BI Master - Power BI"/>
 </a>
-
 </div>
 
 
