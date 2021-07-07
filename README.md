@@ -4,6 +4,24 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jnowwwak?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjanusznowak&screen_name=jnowwwak)
 
 <div>
+--Microsfot
+
+<a href="https://www.credly.com/badges/ca33f668-2a52-4572-8151-d1179d10ebd7" title="Microsoft Certified: DevOps Engineer Expert">
+    <img src="https://images.credly.com/size/140x140/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="140" alt="Microsoft Certified: DevOps 
+Engineer Expert"/>
+</a>
+<a href="https://www.credly.com/badges/e2ac5d12-235d-45f9-80df-2a42740b3f1b" title="Microsoft Certified: Azure Solutions Architect Expert">
+    <img src="https://images.credly.com/size/140x140/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="140" alt="Microsoft Certified: Az
+ure Solutions Architect Expert"/>
+</a>
+<a href="https://www.credly.com/badges/205c5f21-d69a-4b8e-b16e-01fc4cef3e6d" title="Microsoft Certified: Azure Security Engineer Associate">
+    <img src="https://images.credly.com/size/140x140/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="140" alt="Microsoft Certified: Az
+ure Security Engineer Associate"/>
+</a>
+
+--Exams
+
+
 <a href="https://www.credly.com/badges/e546843f-433a-4441-858e-beff605eefb5" title="Microsoft Certified: Azure Fundamentals">
     <img src="https://images.credly.com/size/140x140/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="140" alt="Microsoft Certified: Azure Fundamenta
 ls"/>
@@ -31,10 +49,7 @@ Fundamentals"/>
     <img src="https://images.credly.com/size/140x140/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="140" alt="Microsoft Certified: Azure AI Fund
 amentals"/>
 </a>
-<a href="https://www.credly.com/badges/205c5f21-d69a-4b8e-b16e-01fc4cef3e6d" title="Microsoft Certified: Azure Security Engineer Associate">
-    <img src="https://images.credly.com/size/140x140/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="140" alt="Microsoft Certified: Az
-ure Security Engineer Associate"/>
-</a>
+
 <a href="https://www.credly.com/badges/651f707f-826d-4006-95e6-c36ad6e30f9a" title="AZ-303 Microsoft Azure Architect Technologies">
     <img src="https://images.credly.com/size/140x140/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" width="140" alt="AZ-303 Microsoft Azure Architect Tech
 nologies"/>
@@ -59,14 +74,8 @@ ing Microsoft Azure and Web Services"/>
     <img src="https://images.credly.com/size/140x140/images/bfdff01e-a9dd-41fc-9301-8a90585c19bb/EXAM-Expert-AZ-304-600x600.png" width="140" alt="AZ-304 Microsoft Azure Architect Desi
 gn"/>
 </a>
-<a href="https://www.credly.com/badges/e2ac5d12-235d-45f9-80df-2a42740b3f1b" title="Microsoft Certified: Azure Solutions Architect Expert">
-    <img src="https://images.credly.com/size/140x140/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="140" alt="Microsoft Certified: Az
-ure Solutions Architect Expert"/>
-</a>
-<a href="https://www.credly.com/badges/ca33f668-2a52-4572-8151-d1179d10ebd7" title="Microsoft Certified: DevOps Engineer Expert">
-    <img src="https://images.credly.com/size/140x140/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="140" alt="Microsoft Certified: DevOps 
-Engineer Expert"/>
-</a>
+
+
 <a href="https://www.credly.com/badges/2dbc524a-3cdc-4802-ae15-51d869aac750" title="DP-201 Designing an Azure Data Solution">
     <img src="https://images.credly.com/size/140x140/images/c4671de2-68f7-4219-952d-2e955e25f453/exam-dp201-600x600.png" width="140" alt="DP-201 Designing an Azure Data Solution"/>
 </a>
