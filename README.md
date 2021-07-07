@@ -148,6 +148,11 @@ ner 2021-2022"/>
 </a>
 
 
+<a href="https://devops.credly.com/member-badges/23131093" title="DevOps Foundation® Certification">
+    <img src="https://credlyapp.s3.amazonaws.com/badges/8bbb7b5a060a84447018cb1ee062f85a_17.png" width="140" alt="DevOps Foundation® Certification"/>
+</a>
+
+
 </div>
 
 
