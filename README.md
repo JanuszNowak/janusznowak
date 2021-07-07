@@ -85,16 +85,6 @@ Awards
 </a>
 </div>    
     
-<div>
-    SAFe
-    <br>
-<a href="https://www.credly.com/badges/47996eae-5885-4502-98f5-41a6028e153a" title="Certified SAFe® 5 Agilist">
-    <img src="https://images.credly.com/size/600x600/images/969ca68c-6793-4ebc-b35a-1d2663ad3c26/cert_mark_SA_badge_large_300px.png" width="140" alt="Certified SAFe® 5 Agilist"/>
-</a>
-</div>
-
-
-
 
 
 <div>
@@ -132,6 +122,15 @@ DevOps Institute
 </a>  
     
 </div>
+    
+    <div>
+    SAFe
+    <br>
+<a href="https://www.credly.com/badges/47996eae-5885-4502-98f5-41a6028e153a" title="Certified SAFe® 5 Agilist">
+    <img src="https://images.credly.com/size/600x600/images/969ca68c-6793-4ebc-b35a-1d2663ad3c26/cert_mark_SA_badge_large_300px.png" width="140" alt="Certified SAFe® 5 Agilist"/>
+</a>
+</div>
+    
 <div>
 Exams Microsoft
 <br>
