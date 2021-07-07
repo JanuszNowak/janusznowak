@@ -170,10 +170,10 @@ DevOps Institute
 </a>
 
 <a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Maker">
-    <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/maker.jpg" width="140" alt="Azure Hero - Maker"/>
+    <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/maker.jpg" width="240" alt="Azure Hero - Maker"/>
 </a>
 <a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Content Hero">
-    <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/content_hero.jpg" width="140" alt="Azure Hero - Maker"/>
+    <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/content_hero.jpg" width="240" alt="Azure Hero - Maker"/>
 </a>
 
 
