@@ -69,14 +69,29 @@ amentals"/>
     <img src="https://images.credly.com/size/600x600/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png" width="140" alt="Microsoft Certified Trai
 ner 2021-2022"/>
 </a>
+
+    </div>
+
+<div>
+Awards
+    <br>
+<a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Maker">
+    <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/maker.jpg" width="240" alt="Azure Hero - Maker"/>
 </a>
-
-
-
+<a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Content Hero">
+    <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/content_hero.jpg" width="240" alt="Azure Hero - Maker"/>
+</a>
+<a href="https://www.credly.com/badges/bf60eeb8-cb20-4e53-a834-4c389fdef54e" title="OpenHack: DevOps">
+    <img src="https://images.credly.com/size/600x600/images/0384f554-6401-42d2-b494-02a6d2fd3013/DevOps.png" width="140" alt="OpenHack: DevOps"/>
+</a>
+</div>    
+    
+<div>
+    SAFe
 <a href="https://www.credly.com/badges/47996eae-5885-4502-98f5-41a6028e153a" title="Certified SAFe® 5 Agilist">
     <img src="https://images.credly.com/size/600x600/images/969ca68c-6793-4ebc-b35a-1d2663ad3c26/cert_mark_SA_badge_large_300px.png" width="140" alt="Certified SAFe® 5 Agilist"/>
 </a>
-
+</div>
 
 
 
@@ -117,23 +132,6 @@ DevOps Institute
 </a>  
     
 </div>
-
-<div>
-Awards
-    <br>
-<a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Maker">
-    <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/maker.jpg" width="240" alt="Azure Hero - Maker"/>
-</a>
-<a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Content Hero">
-    <img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/content_hero.jpg" width="240" alt="Azure Hero - Maker"/>
-</a>
-<a href="https://www.credly.com/badges/bf60eeb8-cb20-4e53-a834-4c389fdef54e" title="OpenHack: DevOps">
-    <img src="https://images.credly.com/size/600x600/images/0384f554-6401-42d2-b494-02a6d2fd3013/DevOps.png" width="140" alt="OpenHack: DevOps"/>
-</a>
-</div>
-
-
-
 <div>
 Exams Microsoft
 <br>
