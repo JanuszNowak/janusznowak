@@ -146,7 +146,7 @@ n Server"/>
 </div>
 
 
-
+<!--
 <div>
 <a href="https://www.credly.com/earner/earned/badge/ca33f668-2a52-4572-8151-d1179d10ebd7" title="Microsoft Certified: DevOps Engineer Expert">
   <img src="./img/Microsoft Certified_ DevOps Engineer Expert.png?raw=true" width="140" alt="Microsoft Certified: DevOps Engineer Expert"/>
@@ -158,6 +158,7 @@ n Server"/>
   <img src="./img/Microsoft Certified_ Azure Security Engineer Associate.png?raw=true" width="140"alt="Microsoft Certified: Azure Security Engineer Associate"/>
 </a>
 </div>
+-->
 <!--
 <div>
 <img src="./img/Designing and Implementing Microsoft DevOps Solutions .png?raw=true" width="140"/>
