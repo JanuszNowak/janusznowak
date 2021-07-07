@@ -131,7 +131,8 @@ ner 2021-2022"/>
 </a>
 
 <div>
-Friends of BI 
+Friends of BI P&G
+    <br>
 <a href="https://www.credly.com/badges/55c4245e-fd37-4baf-9cff-333ae609ea72" title="Friends of BI Master - Power BI">
     <img src="https://images.credly.com/size/600x600/images/b8a378e7-7986-43b2-b87d-f9232eec439f/PBI_Master_Badge_sq.png" width="140" alt="Friends of BI Master - Power BI"/>
 </a>
