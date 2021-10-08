@@ -222,8 +222,6 @@
 <img src="./img/Friends of BI Builder - Power BI.png?raw=true" width="140"/>
 </div>
 -->
-
-<!--
 ### Hi there 👋, my name is Janusz
 #### 🚀☁⚡
 ![🚀☁⚡](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
