@@ -41,7 +41,6 @@
 <a href="https://www.devopsinstitute.com/certifications/devops-leader/" title="DevOps Leader®"><img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/DevOpsLeaderBadge-2.png" width="140" alt="DevOps Leader®"/></a>
 <a href="https://www.devopsinstitute.com/certifications/sre-foundation/" title="Site Reliability Engineering (SRE) Foundation℠"><img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/SREFoundation-2.png" width="140" alt="Site Reliability Engineering (SRE) Foundation℠"/></a>
 <a href="https://www.devopsinstitute.com/certifications/devsecops-foundation/" title="DevSecOps Foundation℠"><img src="https://www.devopsinstitute.com/wp-content/uploads/2020/08/DevSecOpsFoundation-2.png" width="140" alt="DevSecOps Foundation℠"/></a>
-
 <a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Content Hero"><img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/content_hero.jpg" width="200" alt="Azure Hero - Maker"/></a>
 <a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Maker"><img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/maker.jpg" width="200" alt="Azure Hero - Maker"/></a>
 <a href="https://www.microsoft.com/skills/azureheroes" title="Azure Hero - Builder"><img src="https://www.microsoft.com/Skills/Content/images/azureHeroes/newBadgers/builder.jpg" width="200" alt="Azure Hero - Builder"/></a>
