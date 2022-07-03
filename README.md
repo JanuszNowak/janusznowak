@@ -82,24 +82,6 @@ Here are few of certifications, awards and honors I received.
 
 </div>
 
--->
-### Hi there 👋, my name is Janusz
-#### 🚀☁⚡
-![🚀☁⚡](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-ALM / VSTS / Azure DevOps / Azure Senior Cloud Developer | DevOps & Cloud & ServerLess 
-
-Skills: DevOps, Azure, Cloud, .NET, ALM
-
-- 🔭 I’m currently working on multiple projects. 
-- 🌱 I’m currently learning , ... a lot. 
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about DevOps, Azure, Cloud, ALM,  
-- 📫 How to reach me: janono@gmail.com 
-- 😄 Pronouns: Janusz 
-- ⚡ Fun fact: ...... 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JanuszNowak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/janono)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](janono)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/janono/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jnowwwak/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jnowwwak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/janusznowak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/janono)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/janusz-nowak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/JanuszNowak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/jnowwwak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](blog.janono.pl)  
 
