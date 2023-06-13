@@ -17,6 +17,6 @@ Here are few of certifications, awards and honors I received.
 
 <div>
 
-
-  <img src='https://user-images.githubusercontent.com/5168275/215516442-d1af4b16-d157-48e1-8b03-eb95369d589f.png'></img>
   
+  ![image](https://github.com/JanuszNowak/janusznowak/assets/5168275/38d1ef73-a5fb-4599-bd23-dd69ef5a7a00)
+
